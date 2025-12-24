@@ -6,6 +6,8 @@ const App = () => {
 
   return (
     <div>
+      <Navbar />
+      <Navbar />  
       <Navbar />  
       <Card />
     </div>
