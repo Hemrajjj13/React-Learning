@@ -2,7 +2,7 @@ import React from 'react'
 
 const Card = (props) => {
 
-    return (
+  return (
     <div className='card'>
         <img src={props.src} alt='imag'/>
         <h1>{props.user}</h1>
